@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.6",
-  "name": "PizzaTower_GM2",
+  "name": "PizzaTowerPlus_GM2",
   "resources": [
     {"id":{"name":"obj_noisecredit","path":"objects/obj_noisecredit/obj_noisecredit.yy",},"order":0,},
     {"id":{"name":"obj_doisedead","path":"objects/obj_doisedead/obj_doisedead.yy",},"order":0,},
